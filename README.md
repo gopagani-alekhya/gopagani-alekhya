@@ -14,7 +14,7 @@ I enjoy understanding how applications are built, tested, monitored, secured, an
 
 A responsive React and Vite utility application that brings everyday tools together in one place.
 
-**Implemented features and project work:**
+**Implemented features and project work:** (https://gopagani-alekhya.github.io/gosimplify360/)
 - Word Counter
 - Age Calculator
 - QR Code Generator
@@ -36,8 +36,6 @@ Designed and documented a proposed AWS architecture involving:
 - AWS CloudTrail
 - Route 53 concepts
 - CI/CD workflow concepts
-
-*Note: The AWS architecture is documented as a design exercise and has not been deployed.*
 
 ## ☁️ Cloud & DevOps Learning
 
